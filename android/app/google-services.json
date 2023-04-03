@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204052870827",
+    "project_id": "smack-power",
+    "storage_bucket": "smack-power.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204052870827:android:d001697a1911065bb929ee",
+        "android_client_info": {
+          "package_name": "com.bacancy.cmsocpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204052870827-3gsd373ukiuid490duc5d28pjn0bkdcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TLchrbWbhQV0Xk656byUz6AH5jlt9eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204052870827-3gsd373ukiuid490duc5d28pjn0bkdcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
